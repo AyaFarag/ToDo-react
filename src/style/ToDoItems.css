@@ -1,0 +1,15 @@
+.listitems {
+    border: 1px;
+}
+td {
+    border: #fff solid 5px;
+    width: auto;
+    background-color: blueviolet;
+    color: #fff
+
+}
+table{
+    width: 1000px;
+    margin: auto;
+    
+}
